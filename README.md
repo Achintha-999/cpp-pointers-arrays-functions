@@ -38,8 +38,8 @@ cpp-pointers-arrays-functions
 
 Requirements
 
-A C++ compiler (e.g., GCC, Clang, or MSVC).
-Basic knowledge of C++ syntax and concepts.
+- A C++ compiler (e.g., GCC, Clang, or MSVC).
+- Basic knowledge of C++ syntax and concepts.
 How to Run
 
 1. Clone the repository:
